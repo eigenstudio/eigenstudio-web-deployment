@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[10116,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0nyeirk1cdci2.js"],"default"]
+6:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T14d8,<p>Acoustic engineering is essential for designing products and environments that deliver optimal sound quality, minimize unwanted noise, and enhance user experience. From consumer electronics and automotive systems to industrial machinery and architectural spaces, understanding acoustic behavior is critical to achieving performance, comfort, and regulatory compliance.</p>
+<p>At eigenstudio, we combine advanced acoustic simulation technologies, computational modeling, and engineering expertise to analyze and optimize sound and vibration behavior across a wide range of industries and applications.</p>
+<h2>Introduction</h2>
+<p>Sound is a fundamental aspect of how people interact with products and environments. Whether it is the quiet operation of an electric vehicle, the audio quality of a smart device, or the noise control requirements of industrial equipment, acoustic performance plays a significant role in user satisfaction and system effectiveness.</p>
+<p>As products become increasingly sophisticated, acoustic challenges become more complex. Engineers must account for interactions between structures, fluids, vibrations, and sound waves while balancing performance, efficiency, and design constraints.</p>
+<p>Traditional acoustic development often relies heavily on physical testing and repeated design iterations. Modern simulation-driven approaches enable engineers to predict acoustic performance early in the design process, reducing development costs and accelerating innovation.</p>
+<p><img src="/images/capabilities/acoustic-analysis.webp" alt="Acoustic simulation and sound analysis"></p>
+<p><em>Advanced acoustic analysis used to visualize sound propagation, noise sources, and vibration characteristics.</em></p>
+<p>Through computational acoustic modeling, engineers can identify noise-generating mechanisms, evaluate sound transmission paths, and optimize designs before physical prototypes are produced. This proactive approach helps organizations improve product quality while reducing development risks.</p>
+<blockquote>
+<p>"Great products are not only seen and used—they are heard and experienced. Acoustic engineering transforms sound into a competitive advantage."</p>
+</blockquote>
+<p><strong>Acoustic Engineering Team</strong><br>
+<em>eigenstudio</em></p>
+<p>Acoustic simulation provides engineers with the ability to evaluate sound quality, vibration behavior, resonance characteristics, and noise propagation under real-world operating conditions. These insights support informed engineering decisions and enable superior product performance.</p>
+<h2>Software and Tools</h2>
+<p>Our acoustic engineering workflows leverage advanced simulation technologies and computational methodologies capable of solving complex sound and vibration challenges.</p>
+<p>Key technologies and capabilities include:</p>
+<ul>
+<li>Acoustic Finite Element Analysis (FEA)</li>
+<li>Vibro-Acoustic Simulation</li>
+<li>Noise, Vibration, and Harshness (NVH) Analysis</li>
+<li>Modal and Frequency Response Analysis</li>
+<li>Sound Quality Assessment</li>
+<li>Structural-Acoustic Coupling</li>
+<li>Wave Propagation Modeling</li>
+<li>Aeroacoustic Analysis</li>
+<li>Resonance and Vibration Control</li>
+<li>High-Performance Computing (HPC)</li>
+</ul>
+<p>These tools allow engineers to investigate acoustic performance under both steady-state and transient operating conditions, providing deep insight into noise sources and system behavior.</p>
+<p>In addition to industry-standard simulation platforms, our team develops customized workflows and automation solutions that accelerate acoustic analysis and support faster product development cycles.</p>
+<h2>Applications</h2>
+<p>Acoustic simulation and engineering play a critical role in a broad range of industries and technologies.</p>
+<p>Typical application areas include:</p>
+<ol>
+<li>Automotive NVH optimization and cabin comfort improvement.</li>
+<li>Consumer electronics sound quality enhancement.</li>
+<li>Industrial machinery noise reduction.</li>
+<li>Aerospace cabin noise and vibration analysis.</li>
+<li>Building and architectural acoustics.</li>
+<li>Home appliance acoustic performance evaluation.</li>
+<li>Electric vehicle sound and vibration management.</li>
+</ol>
+<p><img src="/images/capabilities/acoustic-applications.webp" alt="Noise reduction and acoustic optimization"></p>
+<p><em>Simulation-driven acoustic engineering enables quieter, more efficient, and higher-quality products.</em></p>
+<p>As industries continue to prioritize user experience, comfort, and sustainability, acoustic performance has become a key differentiator in product development. Advanced simulation technologies enable organizations to identify issues early, optimize designs efficiently, and achieve superior acoustic outcomes.</p>
+<p>Modern engineering increasingly relies on simulation-driven acoustic analysis to reduce noise, improve sound quality, and ensure compliance with regulatory requirements. These capabilities help organizations deliver products that perform exceptionally in both technical and user-focused evaluations.</p>
+<p>Acoustic engineering remains a critical discipline in modern product development, enabling the creation of quieter, more comfortable, and more refined systems that enhance the way people interact with technology and their environment.</p>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Aerospace & Defense\",\"provider\":{\"@type\":\"Organization\",\"name\":\"eigenstudio\",\"url\":\"https://eigenstudio.com\"},\"description\":\"Advanced acoustic simulation and engineering solutions for noise reduction, sound quality optimization, vibration control, and enhanced product performance.\",\"category\":\"Engineering Simulation\"}"}}],["$","$L2",null,{"data":{"title":"Aerospace & Defense","category":"Science","readingTime":"8 min read","author":"eigenstudio","publishedAt":"2026-01-17","featuredImage":"","excerpt":"Advanced acoustic simulation and engineering solutions for noise reduction, sound quality optimization, vibration control, and enhanced product performance.","contentHtml":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iNrU-OtroUHGJoE8AH4EV"}
+4:["$","script","script-0",{"src":"/_next/static/chunks/0nyeirk1cdci2.js","async":true}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

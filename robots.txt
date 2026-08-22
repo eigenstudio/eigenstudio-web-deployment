@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
+Disallow: /api/
 
-Sitemap: https://www./sitemap.xml
+Sitemap: https://eigenstudio.com/sitemap.xml

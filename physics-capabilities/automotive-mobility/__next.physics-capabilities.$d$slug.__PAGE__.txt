@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[10116,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0nyeirk1cdci2.js"],"default"]
+6:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+3:T150a,<p>Electromagnetic engineering is at the heart of modern technology, powering everything from wireless communication networks and electric vehicles to advanced medical devices and aerospace systems. Understanding and controlling electromagnetic behavior is essential for ensuring performance, efficiency, compatibility, and reliability in increasingly complex products.</p>
+<p>At eigenstudio, we leverage advanced electromagnetic simulation technologies, computational methods, and engineering expertise to solve challenging design problems across industries including telecommunications, automotive, aerospace, electronics, energy, and defense.</p>
+<h2>Introduction</h2>
+<p>Modern products operate in environments where electromagnetic interactions are unavoidable. Signals, currents, magnetic fields, and electromagnetic waves continuously influence system behavior, often affecting performance in ways that are difficult to predict through physical testing alone.</p>
+<p>As devices become smaller, faster, and more interconnected, electromagnetic effects play an increasingly important role in system design. Engineers must address challenges such as signal integrity, electromagnetic interference, power losses, antenna performance, and electromagnetic compatibility throughout the product development lifecycle.</p>
+<p>Simulation-driven engineering enables teams to visualize field distributions, predict system behavior, and optimize designs before manufacturing begins. This significantly reduces development risks while accelerating innovation and improving overall product performance.</p>
+<p><img src="/images/capabilities/electromagnetic-analysis.webp" alt="Electromagnetic field simulation and analysis"></p>
+<p><em>Advanced electromagnetic field analysis used to optimize performance, efficiency, and electromagnetic compatibility.</em></p>
+<p>By combining physics-based modeling with high-performance computing resources, engineers can evaluate complex electromagnetic interactions that would otherwise require extensive experimental testing. This approach enables faster design iterations and more informed engineering decisions.</p>
+<blockquote>
+<p>"Electromagnetic simulation transforms invisible physical phenomena into actionable engineering insights."</p>
+</blockquote>
+<p><strong>Electromagnetic Engineering Team</strong><br>
+<em>eigenstudio</em></p>
+<p>The ability to accurately model electromagnetic behavior has become essential for modern product development. Simulation allows engineers to identify issues early, optimize designs efficiently, and achieve higher levels of performance while reducing development costs.</p>
+<h2>Software and Tools</h2>
+<p>Our electromagnetic engineering workflows utilize industry-leading simulation platforms and advanced computational methodologies capable of solving highly complex electromagnetic problems.</p>
+<p>Key technologies and capabilities include:</p>
+<ul>
+<li>Electromagnetic Field Analysis</li>
+<li>Computational Electromagnetics</li>
+<li>Antenna Design and Optimization</li>
+<li>RF and Microwave Simulation</li>
+<li>Signal Integrity Analysis</li>
+<li>Power Electronics Modeling</li>
+<li>Electromagnetic Compatibility (EMC)</li>
+<li>Electromagnetic Interference (EMI) Assessment</li>
+<li>Electric Motor and Actuator Simulation</li>
+<li>High-Performance Computing (HPC)</li>
+</ul>
+<p>These technologies enable engineers to evaluate electromagnetic behavior across a broad range of frequencies and operating conditions, ensuring accurate and reliable system performance.</p>
+<p>In addition to commercial software solutions, our team develops customized simulation workflows and automation frameworks that improve productivity and streamline engineering processes.</p>
+<h2>Applications</h2>
+<p>Electromagnetic simulation is critical for designing and validating a wide variety of modern technologies and engineering systems.</p>
+<p>Typical application areas include:</p>
+<ol>
+<li>Wireless communication and antenna systems.</li>
+<li>RF and microwave component design.</li>
+<li>Electric motor and actuator development.</li>
+<li>Power electronics and converter optimization.</li>
+<li>Electromagnetic compatibility (EMC) certification support.</li>
+<li>Electric vehicle powertrain systems.</li>
+<li>Aerospace and satellite communication technologies.</li>
+</ol>
+<p><img src="/images/capabilities/electromagnetic-applications.webp" alt="Electromagnetic system design and optimization"></p>
+<p><em>Simulation-driven electromagnetic engineering enables efficient and reliable system design.</em></p>
+<p>As electronic systems continue to increase in complexity, electromagnetic performance becomes a key factor in achieving product reliability and regulatory compliance. Simulation enables organizations to proactively identify challenges and optimize designs before physical implementation.</p>
+<p>Modern industries increasingly depend on accurate electromagnetic analysis to support innovation, improve efficiency, and accelerate product development. From next-generation wireless technologies to advanced electric mobility solutions, electromagnetic simulation serves as a critical engineering capability.</p>
+<p>Electromagnetic engineering remains a foundational discipline for technological advancement, enabling the development of smarter, faster, and more efficient systems across a broad spectrum of industries.</p>
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Automotive Mobility\",\"provider\":{\"@type\":\"Organization\",\"name\":\"eigenstudio\",\"url\":\"https://eigenstudio.com\"},\"description\":\"Advanced electromagnetic simulation and analysis solutions for designing high-performance electronic, RF, wireless, and power systems with greater efficiency and reliability.\",\"category\":\"Engineering Simulation\"}"}}],["$","$L2",null,{"data":{"title":"Automotive Mobility","category":"Science","readingTime":"8 min read","author":"eigenstudio","publishedAt":"2026-01-17","featuredImage":"","excerpt":"Advanced electromagnetic simulation and analysis solutions for designing high-performance electronic, RF, wireless, and power systems with greater efficiency and reliability.","contentHtml":"$3"}}]],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iNrU-OtroUHGJoE8AH4EV"}
+4:["$","script","script-0",{"src":"/_next/static/chunks/0nyeirk1cdci2.js","async":true}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
