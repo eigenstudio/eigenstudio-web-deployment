@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[37752,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0wq2x~2t2l9~_.js"],"default"]
+4:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:T6ff,<h1>Cookies Policy</h1>
+<h2>Transparent use of cookies for a better experience</h2>
+<p>This Cookies Policy explains how eigenstudio uses cookies and similar technologies across our website and interactive platforms. By continuing to use our services, you consent to the use of cookies as described here.</p>
+<h2>What Are Cookies</h2>
+<p>Cookies are small text files stored on your device when you visit a website. They help websites function properly, remember preferences, and improve overall user experience. Cookies do not give us access to your device or personal files.</p>
+<h2>How We Use Cookies</h2>
+<p>eigenstudio uses cookies to:</p>
+<ul>
+<li>Ensure core website functionality</li>
+<li>Understand how users interact with content</li>
+<li>Improve performance and usability</li>
+<li>Maintain session continuity for interactive features</li>
+</ul>
+<p>Cookies allow us to refine our interactive learning tools and deliver a smoother experience.</p>
+<h2>Types of Cookies We Use</h2>
+<ul>
+<li>Essential cookies – Required for basic site operation</li>
+<li>Analytics cookies – Help us understand usage patterns</li>
+<li>Preference cookies – Remember user settings and choices</li>
+</ul>
+<p>We do not use cookies to collect sensitive personal information without consent.</p>
+<h2>Managing Cookies</h2>
+<p>You can control or disable cookies through your browser settings. Please note that disabling certain cookies may affect website functionality or limit access to interactive features.</p>
+<h2>Changes to This Policy</h2>
+<p>This Cookies Policy may be updated periodically. Continued use of the website after updates constitutes acceptance of the revised policy.</p>
+<h2>Contact Us</h2>
+<p>For questions related to cookies or data usage, please contact the eigenstudio team.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":{"category":"Legal","title":"Cookies","description":"By accesssing our website, you are agreeing to be bound by these terms of service, and gree that you are responsible for compliance with any applicable local laws.","contentHtml":"$3"}}],[["$","script","script-0",{"src":"/_next/static/chunks/0wq2x~2t2l9~_.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"iNrU-OtroUHGJoE8AH4EV"}
+6:null
