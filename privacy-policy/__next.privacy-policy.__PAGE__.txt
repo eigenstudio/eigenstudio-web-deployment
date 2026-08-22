@@ -29,7 +29,7 @@
 <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will post any changes on this page, and the modified Terms will become effective immediately upon posting.</p>
 <h2>8. Contact Us</h2>
 <p>If you have any questions about these Terms, please contact us at <a href="mailto:hello@eigenstudio.com">hello@eigenstudio.com</a>.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":{"category":"Legal","title":"Privacy","description":"By accesssing our website, you are agreeing to be bound by these terms of service, and gree that you are responsible for compliance with any applicable local laws.","contentHtml":"$3"}}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DIndjIPu2ogR8YhaGojmQ"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":{"category":"Legal","title":"Privacy","description":"By accesssing our website, you are agreeing to be bound by these terms of service, and gree that you are responsible for compliance with any applicable local laws.","contentHtml":"$3"}}],["$L4"],"$L5"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MYtwo-0sf6uZj_I-6C43g"}
 4:["$","script","script-0",{"src":"/_next/static/chunks/0wq2x~2t2l9~_.js","async":true}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

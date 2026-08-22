@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DIndjIPu2ogR8YhaGojmQ"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MYtwo-0sf6uZj_I-6C43g"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/physics-capabilities/aerospace-and-defense;307;"}
