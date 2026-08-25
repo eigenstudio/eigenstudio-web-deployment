@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37752,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0wq2x~2t2l9~_.js"],"default"]
-4:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0tp2.b2~1i6q8.js","/_next/static/chunks/126g14osvzurz.js","/_next/static/chunks/05qnud.5r2m75.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2:I[37752,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0120a5.cuvcqp.js","/_next/static/chunks/03k1-p2e5yoba.js","/_next/static/chunks/03t-4hanm..fz.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0wq2x~2t2l9~_.js"],"default"]
+4:I[97367,["/_next/static/chunks/0x4ribyf185km.js","/_next/static/chunks/05pihwv059~sw.js","/_next/static/chunks/0120a5.cuvcqp.js","/_next/static/chunks/03k1-p2e5yoba.js","/_next/static/chunks/03t-4hanm..fz.js","/_next/static/chunks/0u8vvmf~99vc0.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 3:T62f,<h1>License</h1>
 <h2>Clear terms for responsible use</h2>
@@ -30,5 +30,5 @@
 <p>This License may be updated periodically. Continued use of eigenstudio content indicates acceptance of the revised terms.</p>
 <h2>Contact Us</h2>
 <p>For licensing inquiries or permissions, please contact the eigenstudio team.</p>
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":{"category":"Legal","title":"Licenses","description":"By accesssing our website, you are agreeing to be bound by these terms of service, and gree that you are responsible for compliance with any applicable local laws.","contentHtml":"$3"}}],[["$","script","script-0",{"src":"/_next/static/chunks/0wq2x~2t2l9~_.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VJDDNnj3gwIb67DyPcMHA"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"data":{"category":"Legal","title":"Licenses","description":"By accesssing our website, you are agreeing to be bound by these terms of service, and gree that you are responsible for compliance with any applicable local laws.","contentHtml":"$3"}}],[["$","script","script-0",{"src":"/_next/static/chunks/0wq2x~2t2l9~_.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vx_CowOd51JAYOD8Qt3Fg"}
 6:null
