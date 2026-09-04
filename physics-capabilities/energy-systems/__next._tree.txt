@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/02usadrux6us3.css","style"]
-:HL["/_next/static/chunks/0x0k6q.2puae4.css","style"]
+:HL["/_next/static/chunks/0rqm3v~or8mhf.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"physics-capabilities","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"energy-systems","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LdlKcSuc28RvgD7kkb4Oy"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"physics-capabilities","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"energy-systems","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Aes77UNJg0FoURT7v1hZ9"}
